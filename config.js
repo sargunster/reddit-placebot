@@ -10,5 +10,5 @@ module.exports = {
   BOARD_H: 1000,
   BOARD_W: 1000,
 
-  autoupdateRemoteTarget: false
+  autoupdateRemoteTarget: true
 }
