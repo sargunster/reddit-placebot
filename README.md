@@ -2,6 +2,8 @@
 
 This is a bot for the Reddit [/r/place](https://www.reddit.com/r/place/) event of 2017 April Fools Day.
 
+[Here's the current image.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/target.bmp)
+
 ## Installation
 
 You need to have [NodeJS installed](https://nodejs.org)
