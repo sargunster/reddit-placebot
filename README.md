@@ -1,8 +1,10 @@
-# Reddit Place Bot
+# B1G Reddit Place Bot
 
-This is a bot for the Reddit [/r/place](https://www.reddit.com/r/place/) event of 2017 April Fools Day.
+This is a bot to preserve the B1G logos for the Reddit [/r/place](https://www.reddit.com/r/place/) event of 2017 April Fools Day.
 
 [Here's the current image.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/images/target.bmp)
+
+The map currently contains Purdue, Illinois, and Minnesota. Feel free to PR for other B1G schools.
 
 ## Installation
 
