@@ -9,7 +9,7 @@ This is a bot for the Reddit [/r/place](https://www.reddit.com/r/place/) event o
 You need to have [NodeJS installed](https://nodejs.org)
 
 ```
-git clone https://github.com/zequez/reddit-placebot
+git clone https://github.com/sargunster/reddit-placebot
 cd reddit-placebot
 npm install
 ```
