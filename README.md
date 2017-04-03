@@ -9,7 +9,7 @@ This is a bot for the Reddit [/r/place](https://www.reddit.com/r/place/) event o
 You need to have [NodeJS installed](https://nodejs.org)
 
 ```
-git clone https://github.com/zequez/reddit-placebot
+git clone https://github.com/sargunster/reddit-placebot
 cd reddit-placebot
 npm install
 ```
@@ -18,6 +18,8 @@ npm install
 
 Change `users.example.json` to `users.json` and add your username and password
 of your account and all your throwaways.
+
+Skip to "Usage" if you're just trying to preserve the B1G schools.
 
 ## The target.bmp file
 
