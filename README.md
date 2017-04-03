@@ -2,7 +2,7 @@
 
 This is a bot for the Reddit [/r/place](https://www.reddit.com/r/place/) event of 2017 April Fools Day.
 
-[Here's the current image.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/target.bmp)
+[Here's the current image.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/images/target.bmp)
 
 ## Installation
 
@@ -21,7 +21,7 @@ of your account and all your throwaways.
 
 ## The target.bmp file
 
-[The target is already configured with Purdue and Illinois logos.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/target.bmp)
+[The target is already configured with Purdue and Illinois logos.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/images/target.bmp)
 If you want to modify the target, follow the below instructions.
 
 The target file must meet the following requirements:
