@@ -60,6 +60,6 @@ typings/
 
 _board.bmp
 board.bmp
+/tmp/*
+
 users.json
-queues.json
-cookies.json

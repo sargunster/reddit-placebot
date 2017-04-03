@@ -59,6 +59,13 @@ The image will be downloaded before paining and saved to `target.bmp`.
 
 Just use the file `target.bmp` and set `autoupdateRemoteTarget: false` on `config.js`.
 
+## Bundle up changes
+
+If you want to wait until multiple users are available to paint and do the
+changes all at the same time, change the config:
+
+- *bundleAccounts*: <Number 1-Infinity>
+
 ## Usage
 
 ```
@@ -80,4 +87,4 @@ Thanks to [trosh/rplace](https://github.com/trosh/rplace) to figure out how to a
 
 ## License
 
-MIT
+The Reddit Placebot is released under the [MIT License](http://www.opensource.org/licenses/MIT).
