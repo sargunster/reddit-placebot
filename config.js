@@ -4,7 +4,7 @@ module.exports = {
   BOARD_H: 1000,
   BOARD_W: 1000,
 
-  REMOTE_TARGET_URL: 'https://raw.githubusercontent.com/sargunster/reddit-placebot/master/target.bmp',
+  REMOTE_TARGET_URL: 'https://raw.githubusercontent.com/sargunster/reddit-placebot/master/images/target.bmp',
   REMOTE_TARGET_FILE: __dirname + '/tmp/target.bmp',
 
   LOCAL_TARGET_FILE: __dirname + '/images/target.bmp',
