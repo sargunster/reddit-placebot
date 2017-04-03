@@ -19,6 +19,8 @@ npm install
 Change `users.example.json` to `users.json` and add your username and password
 of your account and all your throwaways.
 
+Skip to "Usage" if you're just trying to preserve the B1G schools.
+
 ## The target.bmp file
 
 [The target is already configured with a few logos.](https://raw.githubusercontent.com/sargunster/reddit-placebot/master/images/target.bmp)
